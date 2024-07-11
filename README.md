@@ -1,5 +1,5 @@
 # Gradle<br>
-![Gradle1](https://github.com/maxim-shapovalov/Java_Spring_HW1/tree/main/homework/gradle/gradle-v.png)
+![Gradle1](https://github.com/maxim-shapovalov/Java_Spring_HW1/blob/main/homework/gradle/gradle-v.png)
 ![Gradle build 1](https://github.com/maxim-shapovalov/Java_Spring_HW1/tree/main/homework/gradle/gradle-build-1.png)
 ![Gradle build 2](https://github.com/maxim-shapovalov/Java_Spring_HW1/tree/main/homework/gradle/gradle-build-2.png)
 ![Gradle build successful](https://github.com/maxim-shapovalov/Java_Spring_HW1/tree/main/homework/gradle/gradle-build-successful.png)
