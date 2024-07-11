@@ -36,4 +36,4 @@
   </dependencies>
 </project>
 ```
-![maven](https://github.com/maxim-shapovalov/Java_Spring_HW1/blob/main/homework/maven/Build_20success.png).
+![maven](https://github.com/maxim-shapovalov/Java_Spring_HW1/blob/main/homework/maven/Build_success.png).
