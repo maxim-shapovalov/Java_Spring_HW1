@@ -1,14 +1,14 @@
 # Gradle.<br>
 ![Gradle1](https://github.com/maxim-shapovalov/Java_Spring_HW1/homework/gradle/gradle-v.png)
-![Gradle1](https://github.com/maxim-shapovalov/Java_Spring_HW1/gradle/gradle-build-1.png)
-![Gradle1](https://github.com/maxim-shapovalov/Java_Spring_HW1/gradle/gradle-build-2.png)
-![Gradle1](https://github.com/maxim-shapovalov/Java_Spring_HW1/gradle/gradle-build-successful.png)
-![Gradle1](https://github.com/maxim-shapovalov/Java_Spring_HW1/gradle/build-gradle.png)
-![Gradle1](https://github.com/maxim-shapovalov/Java_Spring_HW1/gradle/build-with-dependency-hibernate.png)
-![Gradle1](https://github.com/maxim-shapovalov/Java_Spring_HW1/gradle/app.png)
-![Gradle1](https://github.com/maxim-shapovalov/Java_Spring_HW1/gradle/build-app.png)
+![Gradle1](https://github.com/maxim-shapovalov/Java_Spring_HW1/homework/gradle/gradle-build-1.png)
+![Gradle1](https://github.com/maxim-shapovalov/Java_Spring_HW1/homework/gradle/gradle-build-2.png)
+![Gradle1](https://github.com/maxim-shapovalov/Java_Spring_HW1/homework/gradle/gradle-build-successful.png)
+![Gradle1](https://github.com/maxim-shapovalov/Java_Spring_HW1/homework/gradle/build-gradle.png)
+![Gradle1](https://github.com/maxim-shapovalov/Java_Spring_HW1/homework/gradle/build-with-dependency-hibernate.png)
+![Gradle1](https://github.com/maxim-shapovalov/Java_Spring_HW1/homework/gradle/app.png)
+![Gradle1](https://github.com/maxim-shapovalov/Java_Spring_HW1/homework/gradle/build-app.png)
 # Maven. <br>
-![maven](https://github.com/maxim-shapovalov/Java_Spring_HW1/maven/package.png).
+![maven](https://github.com/maxim-shapovalov/Java_Spring_HW1/homework/maven/package.png).
 
 ### pom.xml
 ```
@@ -36,4 +36,4 @@
   </dependencies>
 </project>
 ```
-![maven](https://github.com/maxim-shapovalov/Java_Spring_HW1/maven/Build_20success.png).
+![maven](https://github.com/maxim-shapovalov/Java_Spring_HW1/homework/maven/Build_20success.png).
